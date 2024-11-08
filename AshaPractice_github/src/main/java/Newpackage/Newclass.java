@@ -11,7 +11,7 @@ public static void main(String[] args) {
     System.out.println("how is your days");
 
     System.out.println("how is ur day");
-    System.out.println("exam ela rasavuu");
+    System.out.println("exam ela rasavuuu");
 
 
 }
